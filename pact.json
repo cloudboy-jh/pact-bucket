@@ -1,0 +1,22 @@
+{
+    "version": "0.1.10",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cloudboy-jh/pact/releases/download/v0.1.10/pact_0.1.10_windows_amd64.zip",
+            "bin": [
+                "pact.exe"
+            ],
+            "hash": "0f6e6c175f741e617add586c7956996eec7787c5d6920e49d26b7f1f0a41275b"
+        },
+        "arm64": {
+            "url": "https://github.com/cloudboy-jh/pact/releases/download/v0.1.10/pact_0.1.10_windows_arm64.zip",
+            "bin": [
+                "pact.exe"
+            ],
+            "hash": "c210f938b592eed2e9711a4f7547a82f67af40f99997da51e71a445e2ee080e1"
+        }
+    },
+    "homepage": "https://github.com/cloudboy-jh/pact",
+    "license": "MIT",
+    "description": "Pact CLI - Sync your dotfiles and configurations"
+}
