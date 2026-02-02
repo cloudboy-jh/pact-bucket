@@ -1,19 +1,19 @@
 {
-    "version": "0.1.21",
+    "version": "0.1.22",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cloudboy-jh/pact/releases/download/v0.1.21/pact_0.1.21_windows_amd64.zip",
+            "url": "https://github.com/cloudboy-jh/pact/releases/download/v0.1.22/pact_0.1.22_windows_amd64.zip",
             "bin": [
                 "pact.exe"
             ],
-            "hash": "7e0d7a3e77e8ca1328ef51cb8c8a35733868b12afbc34186d69e70c8f9100184"
+            "hash": "6beaa98e3f3090acd7e7efb207de97e88252bf06fa0a825f1937b2eb63de69d2"
         },
         "arm64": {
-            "url": "https://github.com/cloudboy-jh/pact/releases/download/v0.1.21/pact_0.1.21_windows_arm64.zip",
+            "url": "https://github.com/cloudboy-jh/pact/releases/download/v0.1.22/pact_0.1.22_windows_arm64.zip",
             "bin": [
                 "pact.exe"
             ],
-            "hash": "6ab0cd9998d07bf9c1373e2a21b8d360137bea4f58b8bcc6a04309862b823008"
+            "hash": "887af6757ef8036c01013a2ff2772438ea3f91dd4a2617800ab1fd88481f37db"
         }
     },
     "homepage": "https://github.com/cloudboy-jh/pact",
